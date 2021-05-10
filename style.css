@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: aqua;
+}
+
+#games{
+    background-color: chartreuse;
+}
+
+#dialogflow{
+   background-color: blanchedalmond;
+}
